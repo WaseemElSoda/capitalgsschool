@@ -1,2 +1,1 @@
-import pymysql
-pymysql.install_as_MySQLdb()
+# removed pymysql for sqlite compatibility
